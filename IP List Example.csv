@@ -1,0 +1,13 @@
+Product Type,IP Address,Remote SSH Port,Username,Password
+Fortigate,x.x.x.x,222,username,pass
+Fortigate,x.x.x.x,250,username,pass
+Fortigate,x.x.x.x,222,username,pass
+HP-Switch,x.x.x.x,222,username,pass
+Fortigate,x.x.x.x,22,username,pass
+Cisco-Router,x.x.x.x,221,username,pass
+Cisco-Router,x.x.x.x,221,username,pass
+Cisco-Router,x.x.x.x,221,username,pass
+Cisco-Router,x.x.x.x,221,username,pass
+Cisco-Router,x.x.x.x,221,username,pass
+Cisco-Router,x.x.x.x,221,username,pass
+Cisco-Router,x.x.x.x,221,username,pass
